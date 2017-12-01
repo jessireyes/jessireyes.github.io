@@ -10,6 +10,6 @@ Camera Effects
 
 This is my camera effect
 
-![picture_title](https://github.com/jessireyes/jessireyes.github.io/blob/master/Jessi.PNG?raw=true "Optional Title")
+![jessi](https://github.com/jessireyes/jessireyes.github.io/blob/master/Jessi.PNG?raw=true "Optional Title")
 
 ***
